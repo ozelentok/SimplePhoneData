@@ -71,8 +71,8 @@
 		  <label>Camera(MP): <br /><input name="cameraMP" type="text" /></label>
 		  <br />
 		  <label>LED Flash:</label><br />
-		  <input name="led" value="1" type="radio" />Yes
-		  <input name="led" value="0" type="radio" />No
+		  <input name="led" value="Yes" type="radio" />Yes
+		  <input name="led" value="No" type="radio" />No
 		  <br />
 		  <label>Operating System: <br /><input name="os" type="text" /></label>
 		  <br />
@@ -87,8 +87,8 @@
 		}
 		?>
 	</div>
-	<footer>
-		Copyrights &copy Oz Elentok. All Rights Reserved.
-	</footer>
+	<?php
+	include 'templates/footer.html';
+	?>
 </body> 
 </html>
