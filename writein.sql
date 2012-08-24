@@ -4,7 +4,7 @@ CREATE TABLE phonespecs
 (
 id TINYINT(3) UNSIGNED NOT NULL auto_increment,
 name VARCHAR(25),
-pLength FLOAT(, 2),
+pLength FLOAT(6, 2),
 pWidth FLOAT(6, 2),
 pDepth FLOAT(6, 2),
 pWeight FLOAT(6, 2),

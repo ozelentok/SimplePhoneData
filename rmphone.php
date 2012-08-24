@@ -1,3 +1,6 @@
+<?php
+	require 'templates/login.php';
+?>
 <!DOCTYPE html>
 <html>
 <head>
