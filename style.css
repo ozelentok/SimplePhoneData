@@ -19,12 +19,6 @@ h1 {
 h2 {
 	margin-bottom:15px;
 }
-span.result {
-	color: #0f0;
-}
-span.error {
-	color:#f00;
-}
 footer {
 	margin:0 auto;
 	padding:10px 20px;

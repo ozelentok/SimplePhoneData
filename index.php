@@ -8,10 +8,9 @@
 <body>
 	<div id="wrapper">
 	  <h1>Oz's Phones Dataviewer</h1>
-	  <div id="navigator">
-	  	<a href="addphone.php">Add a Phone</a>
-	  </div>
-	  <hr />
+	  <?php>
+	  include 'templates/navi.html';
+	  ?>
 	  <!-- Template Example -->
 	  <div class="phone">
 	  	<h2>Nokia 5800</h2>
