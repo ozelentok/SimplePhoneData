@@ -8,7 +8,7 @@
 <body>
 	<div id="wrapper">
 	  <h1>Oz's Phones Dataviewer</h1>
-	  <?php>
+	  <?php
 	  include 'templates/navi.html';
 	  ?>
 	  <!-- Template Example -->
